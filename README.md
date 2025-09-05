@@ -8,7 +8,7 @@ Models included: Basic CNN, ResNet34, Xception, and YOLOv11s-cls.
 - **dataset construction**: Dataset preparation and augmentation scripts.
 - **results**: Training logs, performance metrics (JSON), and plots of accuracy/loss curves.
 - **README.md**: Project description and references.
-- 
+  
 ## Dataset  
 The dataset used in this project is a merged version of six sources.  
 You can access the combined dataset here:  
