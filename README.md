@@ -8,7 +8,32 @@ Models included: Basic CNN, ResNet34, Xception, and YOLOv11s-cls.
 - **dataset construction**: Dataset preparation and augmentation scripts.
 - **results**: Training logs, performance metrics (JSON), and plots of accuracy/loss curves.
 - **README.md**: Project description and references.
-## Dataset: https://computingservices-my.sharepoint.com/:f:/g/personal/dn564_bath_ac_uk/EiZLKjPEwhhHgqQYKu3tGeMBxgHWY13sOilsYN2bp-XZhQ?e=7RTzPB
+- 
+## Dataset  
+The dataset used in this project is a merged version of six sources.  
+You can access the combined dataset here:  
+[Combined Dataset Link](https://computingservices-my.sharepoint.com/:f:/g/personal/dn564_bath_ac_uk/EiZLKjPEwhhHgqQYKu3tGeMBxgHWY13sOilsYN2bp-XZhQ?e=7RTzPB)  
+
+### Original Sources :
+No defect:
+https://universe.roboflow.com/arizonastateuniversity/3d-printing-cm/browse?queryText=class%3AOK&pageSize=50&startingIndex=0&browseQuery=true
+https://www.kaggle.com/datasets/bshaurya/3d-printing-success?select=success+%28111%29.jpg
+Defects:
+https://universe.roboflow.com/new-dataset-fbe1u/combined-extrusion/dataset/3
+https://app.roboflow.com/multimodal-inspection-additive-manufacturing/under-extrusion-pf0uy-dewzb/1
+https://app.roboflow.com/multimodal-inspection-additive-manufacturing/warping-3d-prints-kxwl0/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+https://universe.roboflow.com/automatisierung-projekt-aajut/3d-ho5at/dataset/4
+
+
+no defect
+3D Printing CM > Browse
+3D Printing - Success
+ 
+defects
+Combined Extrusion - v3 2025-03-19 11:20am
+Under Extrusion - v1 2025-07-08 12:23pm
+warping 3d prints > Browse
+3d - v4 2024-02-02 11:19pm
 ## Citation
 If you use this repository, please cite:  
 *Nabila, D. Automated Classification of 3D Printed Defects Using Deep Learning, 2025.- University of Bath*
